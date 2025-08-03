@@ -69,3 +69,30 @@ A stylish and warm-themed landing page for fashion brands or e-commerce seasonal
 - CSS3
 
 ---
+# 🚀 Subway Runner – Endless Runner Game
+
+Subway Runner is a fun and engaging endless runner game inspired by **Subway Surfers**, developed using **HTML5**, **CSS3**, and **JavaScript** (Canvas API). The player controls a runner to avoid obstacles and collect coins in an infinite, fast-paced environment with an animated background.
+
+---
+
+## 🎮 Features
+
+- 🎯 Full-screen gameplay (`2500x800` canvas)
+- 🧍 Smooth player movement with keyboard controls
+- 🧱 Obstacles that spawn randomly across the screen
+- 🪙 Collect coins and increase your score
+- 🌆 Animated, scrolling background
+- ⚠️ Collision detection and game-over logic
+- ✨ Clean UI and custom graphics
+
+---
+
+## 🔧 Tech Stack
+
+- **HTML5** – Canvas for rendering graphics
+- **CSS3** – Styling, layout, shadows
+- **JavaScript** – Game logic, animations, and user input handling
+
+---
+
+
